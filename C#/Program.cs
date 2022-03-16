@@ -37,7 +37,29 @@
     // Console.WriteLine(str);
     // Console.WriteLine(format_str);
     
+
 // String Methods 
+
+    string msg = "This is Ozan.";
+    System.Console.WriteLine(msg.IndexOf("O"));
+    System.Console.WriteLine(msg.Length);
+    System.Console.WriteLine(msg.ToLower());
+    System.Console.WriteLine(msg.ToUpper());
+    System.Console.WriteLine(msg.Trim());
+    System.Console.WriteLine(msg.Split());
+    System.Console.WriteLine(msg.Split()[1]);
+    System.Console.WriteLine(msg[1]);
+    System.Console.WriteLine(msg.StartsWith(" "));
+    System.Console.WriteLine(msg.EndsWith(" "));
+    System.Console.WriteLine(msg.Contains("O"));
+    System.Console.WriteLine(msg.Substring(1,6));
+    System.Console.WriteLine(msg.Substring(1));
+    System.Console.WriteLine(msg.Substring(1));
+    System.Console.WriteLine(msg.Replace("O","o").ToUpper());
+    System.Console.WriteLine(msg.Insert(msg.Length," I am learning C#."));
+
+    System.Console.WriteLine(msg.Remove(0,msg.Length));
+
 
 
 
