@@ -83,13 +83,55 @@
     // Console.WriteLine($"Banana {list[0]} Euro, Apple is {list[1]}Euro");
     
 
-    string[] names = {"Ozan","James","Kobe","Hank"};
+    // string[] names = {"Ozan","James","Kobe","Hank"};
 
-    Console.WriteLine($"1st: {names[0]}");
-    Console.WriteLine($"2nd: {names[1]}");
-    Console.WriteLine($"3rd: {names[2]}");
-    Console.WriteLine($"4th: {names[3]}");
+    // Console.WriteLine($"1st: {names[0]}");
+    // Console.WriteLine($"2nd: {names[1]}");
+    // Console.WriteLine($"3rd: {names[2]}");
+    // Console.WriteLine($"4th: {names[3]}");
     
+    // int[] points = {80,70,90,75,60,37};
+    // Console.WriteLine(points[0]);
+      
+    //   ******************************************
+
+// Array Methods
+
+    string[] names = {"Ozan","Mert","Yigit","Ahmet","Eylul"};
+    
+    names.SetValue("Ceren",0);
+    // Console.WriteLine(names.GetValue(1));
+    // Array.Sort(names);
+    // Console.WriteLine(names[0]);
+    // Console.WriteLine(names[^1]);
+    // Console.WriteLine(names[1]);
+    // Array.Reverse(names);
+    // Console.WriteLine(names[names.Length-1]);
+    
+    // Console.WriteLine(Array.IndexOf(names,"Eylul"));
+    // string[] actors = names[..];
+
+    //     foreach (var name in names[..])
+    //     {
+    //         Console.WriteLine($"{name}");
+            
+    //     }
+
+        // foreach(var actor in actors){
+        //         Console.WriteLine(actor);
+        // }
+
+    // string msg = "Hello There!";
+    // Console.WriteLine(msg[0..7]);
+    
+
+
+
+
+
+
+
+
 
 
 
