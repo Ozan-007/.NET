@@ -114,7 +114,7 @@
     //     foreach (var name in names[..])
     //     {
     //         Console.WriteLine($"{name}");
-            
+             
     //     }
 
         // foreach(var actor in actors){
@@ -124,6 +124,24 @@
     // string msg = "Hello There!";
     // Console.WriteLine(msg[0..7]);
     
+// ************************************************
+
+
+// DateTime
+
+    // DateTime newDate = DateTime.Now;
+    // System.Console.WriteLine(newDate);
+
+    // System.Console.WriteLine(newDate.Year);
+    // System.Console.WriteLine(newDate.Month);
+    // System.Console.WriteLine(newDate.Second);
+    // System.Console.WriteLine(newDate.DayOfWeek);
+
+
+
+
+
+
 
 
 
