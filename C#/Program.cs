@@ -154,6 +154,30 @@
 // Console.WriteLine(a%b);
 
 
+// Assigning Operators
+
+    // int a = 5; 
+    // a += 10;
+    // a -= 3;
+    // int b = 30;
+    // b /= 4;
+    // b %= 4;
+    // double val = Math.Pow(2,5);
+    // double val = Math.Sqrt(256);
+    // double val = Math.Abs(-200);
+    // double val = Math.Round(200.56);
+    // double val = Math.Floor(200.56);
+    // System.Console.WriteLine(val);
+
+
+
+
+
+
+
+
+
+
 
 
 
