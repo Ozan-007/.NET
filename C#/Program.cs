@@ -170,6 +170,25 @@
     // System.Console.WriteLine(val);
 
 
+// Logical Operators
+
+    // var a = (5>4) && (6>7);
+    // var b = (false) || (10%2==0);
+    // var c = !((true) && (!(200>=189)));
+    // Console.WriteLine(a);
+    // Console.WriteLine(b);
+    // Console.WriteLine(c);
+    
+    
+
+
+
+
+
+
+
+
+
 
 
 
